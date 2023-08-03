@@ -4,9 +4,9 @@
 
 ## Introduction
 The vast field of data science continues to spark interest among the tech-savvy population. A report by Davenport and Patil in 2012 termed Data science as the sexiest Job of the twenty-first century.
-However, little is known about how the average salary varies by Job title, experience level, city, Work model, and so on. Using a dataset obtained from Kaggle on data science salaries in various countries around the world, I created a report outlining how the average salary of data professionals varies across different attributes.
+However, little is known about how the average salary varies by Job title, experience level, city, Work model, etc. Using a dataset obtained from Kaggle on data science salaries in various countries worldwide, I created a report outlining how the average salary of data professionals varies across different attributes.
 
-**_Disclaimer_**: _All datasets and reports do not represent my company, institution or country. The dataset used for the creation of this report can be found for free on [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)_
+**_Disclaimer_**: _All datasets and reports do not represent my company, institution, or country. The dataset used for the creation of this report can be found for free on [Kaggle](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)_
 
 ## Business Objectives:
 1.  What is the total average salary of all data professionals worldwide?
